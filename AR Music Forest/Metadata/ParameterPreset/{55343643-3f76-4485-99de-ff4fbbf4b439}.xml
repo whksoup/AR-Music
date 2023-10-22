@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{55343643-3f76-4485-99de-ff4fbbf4b439}">
+		<property name="name">
+			<value>Tree Bark Touch</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5eeedf04-7813-4c74-b778-942f66e36fb3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7df12de7-82cc-4ba0-9e5d-0507459720c4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7df12de7-82cc-4ba0-9e5d-0507459720c4}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

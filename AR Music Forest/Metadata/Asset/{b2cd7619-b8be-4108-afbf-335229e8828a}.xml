@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{b2cd7619-b8be-4108-afbf-335229e8828a}">
+		<property name="assetPath">
+			<value>Lanterns/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{61494406-548c-42e2-b155-028f294c2f73}</destination>
+		</relationship>
+	</object>
+</objects>

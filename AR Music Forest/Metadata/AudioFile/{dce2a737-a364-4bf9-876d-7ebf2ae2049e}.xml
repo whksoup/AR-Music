@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{dce2a737-a364-4bf9-876d-7ebf2ae2049e}">
+		<property name="assetPath">
+			<value>Tree Bark/mx_tree-bark_touch_layer_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{61494406-548c-42e2-b155-028f294c2f73}</destination>
+		</relationship>
+	</object>
+</objects>
