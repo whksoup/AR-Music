@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1274e13a-230d-4546-9dd9-07bcd51858f9}">
+		<property name="assetPath">
+			<value>mx_object_violin1-arp-fast_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bc5f33c5-8e31-4b76-b79b-c5e68e1129f2}</destination>
+		</relationship>
+	</object>
+</objects>

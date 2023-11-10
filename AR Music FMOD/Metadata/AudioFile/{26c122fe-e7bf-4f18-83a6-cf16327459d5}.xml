@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{26c122fe-e7bf-4f18-83a6-cf16327459d5}">
+		<property name="assetPath">
+			<value>mx_piano-arp-fast_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bc5f33c5-8e31-4b76-b79b-c5e68e1129f2}</destination>
+		</relationship>
+	</object>
+</objects>
